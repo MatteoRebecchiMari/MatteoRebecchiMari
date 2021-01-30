@@ -2,7 +2,7 @@
 
 ```sh
 echo "Hello Devs! The image down here is created by me :-)"
-echo "It means Rebecchi Mari Matteo (MRM)"
+echo "It means Rebecchi Mari Matteo (RMM)"
 ```
 
 <p align="center">
