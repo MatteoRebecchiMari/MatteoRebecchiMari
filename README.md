@@ -51,13 +51,13 @@ I'd say “something” next to a classical engineer :nerd_face: :rocket: :blue_
 </a>
 </p>
 
-My passion for smartphones let me land into the [Android] development world, from which were born both my degree-thesis projects (three-year and masters). 
+My passion for smartphones let me land into the [Android] development world, from which were born both my degree-thesis projects (three-year and masters). <br />
 
 <p align="center">
 <img src="assets/undraw_team_spirit_hrr4.png" height="100" style="background-color:white; padding:0px;">
 </p>
 
-I believe that teamwork is fondamental. 
+I believe that teamwork is fondamental. <br />
 
 <p align="center">
 <a href="https://www.java.com/en/">
@@ -78,7 +78,7 @@ I believe that teamwork is fondamental.
 
 </p>
 
-From a [Java] background, in the last few years I started to work with the [.NET] framework, finding a sweet affinity for [Unity] e [Xamarin]. 
+From a [Java] background, in the last few years I started to work with the [.NET] framework, finding a sweet affinity for [Unity] e [Xamarin]. <br />
 
 <p align="center">
 <a href="https://flutter.dev/">
@@ -86,7 +86,7 @@ From a [Java] background, in the last few years I started to work with the [.NET
 </a>
 </p>
 
-Recently I got passionate about the mobile framework [Flutter] from which I made some small projects. 
+Recently I got passionate about the mobile framework [Flutter] from which I made some small projects. <br />
 
 <p align="center">
 <a href="https://www.flutnet.com">
