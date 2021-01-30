@@ -29,7 +29,7 @@ echo "It means Rebecchi Mari Matteo (RMM)"
 <a href="https://github.com/MatteoRebecchiMari">
 <img src="assets/github.png" height="60"  style="background-color:white; padding:10px; padding-right:15px; padding-left:15px;">
 </a>
-</p> <br />
+</p>
 
 ### What I am 
 
@@ -62,27 +62,21 @@ I believe that teamwork is fondamental.
 From a [Java] background, in the last few years I started to work with the [.NET] framework, finding a sweet affinity for [Unity] e [Xamarin].
 
 <p align="left">
-&nbsp;
-&nbsp;
 <a href="https://www.java.com/en/">
 <img src="assets/java.png" height="80" style="background-color:white; padding:10px; padding-left:30px; padding-right:30px;">
 </a>
-&nbsp;
 &nbsp;
 <a href="https://docs.microsoft.com/en-US/dotnet/">
 <img src="assets/dotnet.png" height="80" style="background-color:white; padding:10px; padding-left:10px; padding-right:10px;">
 </a>
 &nbsp;
-&nbsp;
 <a href="https://unity.com/">
 <img src="assets/unity.png" height="80" style="background-color:white; padding:10px;">
 </a>
 &nbsp;
-&nbsp;
 <a href="https://dotnet.microsoft.com/apps/xamarin">
 <img src="assets/xamarin.png" height="80" style="background-color:white; padding:10px;">
 </a>
-
 </p> <br />
 
 
