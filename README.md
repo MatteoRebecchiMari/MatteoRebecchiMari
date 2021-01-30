@@ -53,7 +53,7 @@ My passion for smartphones let me land into the [Android] development world, fro
 </a>
 </p> <br />
 
-I believe that teamwork is fondamental.
+I face challenges structuring my work in a meticulous way: i like to expose my ideas to work mates because I believe that their opinions are incredibly important: teamwork is fondamental.
 
 <p align="left">
 <img src="assets/undraw_team_spirit_hrr4.png" height="140" style="background-color:white; padding:0px;">
