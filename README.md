@@ -17,15 +17,15 @@ echo "It means Rebecchi Mari Matteo (RMM)"
 <a href="mailto:matteo.rebecchimari@gmail.com">
 <img src="assets/mail.png" height="60" style="background-color:white; padding:10px; padding-right:20px; padding-left:20px;">
 </a>
-
+&nbsp;
 <a href="https://twitter.com/FlutterMatteR">
 <img src="assets/twitter.png" height="60" style="background-color:white; padding:10px; padding-right:20px; padding-left:20px;">
 </a>
-
+&nbsp;
 <a href="https://it.linkedin.com/in/matteo-rebecchi-mari-18349812b">
 <img src="assets/linkedin.png" height="60" style="background-color:white; padding:10px; padding-right:20px; padding-left:20px;">
 </a>
-
+&nbsp;
 <a href="https://github.com/MatteoRebecchiMari">
 <img src="assets/github.png" height="60"  style="background-color:white; padding:10px; padding-right:15px; padding-left:15px;">
 </a>
@@ -65,15 +65,15 @@ From a [Java] background, in the last few years I started to work with the [.NET
 <a href="https://www.java.com/en/">
 <img src="assets/java.png" height="80" style="background-color:white; padding:10px; padding-left:30px; padding-right:30px;">
 </a>
-
+&nbsp;
 <a href="https://docs.microsoft.com/en-US/dotnet/">
 <img src="assets/dotnet.png" height="80" style="background-color:white; padding:10px; padding-left:10px; padding-right:10px;">
 </a>
-
+&nbsp;
 <a href="https://unity.com/">
 <img src="assets/unity.png" height="80" style="background-color:white; padding:10px;">
 </a>
-
+&nbsp;
 <a href="https://dotnet.microsoft.com/apps/xamarin">
 <img src="assets/xamarin.png" height="80" style="background-color:white; padding:10px;">
 </a>
