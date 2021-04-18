@@ -13,23 +13,10 @@ echo "It means Rebecchi Mari Matteo (RMM)"
 
 ### Contacts
 
-<p align="left">
-<a href="mailto:matteo.rebecchimari@gmail.com">
-<img src="assets/mail.png" height="60" style="background-color:white; padding:10px; padding-right:20px; padding-left:20px;">
-</a>
-&nbsp;
-<a href="https://twitter.com/FlutterMatteR">
-<img src="assets/twitter.png" height="60" style="background-color:white; padding:10px; padding-right:20px; padding-left:20px;">
-</a>
-&nbsp;
-<a href="https://it.linkedin.com/in/matteo-rebecchi-mari-18349812b">
-<img src="assets/linkedin.png" height="60" style="background-color:white; padding:10px; padding-right:20px; padding-left:20px;">
-</a>
-&nbsp;
-<a href="https://github.com/MatteoRebecchiMari">
-<img src="assets/github.png" height="60"  style="background-color:white; padding:10px; padding-right:15px; padding-left:15px;">
-</a>
-</p>
+[![Gmail-badge]][Gmail-URL]
+[![Twitter-badge]][Twitter-URL]
+[![Linkedin-badge]][Linkedin-URL]
+[![Github-badge]][Github-URL]
 
 ### What I am 
 
@@ -106,6 +93,19 @@ At last, but not least, I have worked on the birth of [Flutnet].
 [Unity]: https://unity.com/
 [Java]: https://www.java.com/en/
 [Android]: https://developer.android.com/
+
+<!-- Social URLs -->
+[Gmail-Badge]: https://img.shields.io/twitter/url?label=Gmail&logo=gmail&style=social&url=https%3A%2F%2Fit.linkedin.com%2Fin%2Fmatteo-rebecchi-mari-18349812b
+[Gmail-URL]: mailto:matteo.rebecchimari@gmail.com
+[Linkedin-Badge]: https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fit.linkedin.com%2Fin%2Fmatteo-rebecchi-mari-18349812b
+[Linkedin-URL]: https://it.linkedin.com/in/matteo-rebecchi-mari-18349812b
+[Twitter-Badge]: https://img.shields.io/twitter/url?label=%40FlutterMatteR&style=social&url=https%3A%2F%2Ftwitter.com%2Ffluttermatter
+[Twitter-URL]: https://twitter.com/fluttermatter
+[Github-Badge]: https://img.shields.io/twitter/url?color=blue&label=MatteoRebecchiMari&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FMatteoRebecchiMari
+[Github-URL]: https://github.com/MatteoRebecchiMari
+
+
+
 
 
 <!--
