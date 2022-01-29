@@ -29,7 +29,7 @@ I'd say “something” next to a classical engineer :nerd_face: :rocket: :blue_
 - cats :cat:
 - snowboard :snowboarder:
 - mathematics :notebook:
-- motorbikes :motorcycle:
+- tennis :tennis:
 
 ### More about me... :footprints:
 
@@ -51,38 +51,48 @@ From a [Java] background, in the last few years I started to work with the [.NET
 
 <p align="left">
 <a href="https://www.java.com/en/">
-<img src="assets/java.png" height="80" style="background-color:white; padding:10px; padding-left:30px; padding-right:30px;">
+<img src="assets/java.png" height="80" style="background-color:white; padding:10px 30px 10px 30px; margin: 0 10px 0 0;"> 
 </a>
-&nbsp;
 <a href="https://docs.microsoft.com/en-US/dotnet/">
-<img src="assets/dotnet.png" height="80" style="background-color:white; padding:10px; padding-left:10px; padding-right:10px;">
+<img src="assets/dotnet.png" height="80" style="background-color:white; padding:10px 10px 10px 10px; margin: 0 10px 0 0;">
 </a>
-&nbsp;
 <a href="https://unity.com/">
-<img src="assets/unity.png" height="80" style="background-color:white; padding:10px;">
+<img src="assets/unity.png" height="80" style="background-color:white; padding:10px; margin: 0 10px 0 0;">
 </a>
-&nbsp;
 <a href="https://dotnet.microsoft.com/apps/xamarin">
-<img src="assets/xamarin.png" height="80" style="background-color:white; padding:10px;">
+<img src="assets/xamarin.png" height="80" style="background-color:white; padding:10px 12px 10px 12px; margin: 0 10px 0 0;">
 </a>
 </p> <br />
 
 
-Recently I got passionate about the mobile framework [Flutter] from which I made some small projects.
+In 2019 i got passionate about the mobile framework [Flutter] from which I made some projects: the most important was the [Flutnet] project (a suite of tools and templates that allowed to use Flutter and Xamarin together).
 
 <p align="left">
 <a href="https://flutter.dev/">
-<img src="assets/flutter.png" height="140" style="background-color:white; padding:0px;">
+<img src="assets/flutter.png" height="140" style="background-color:white; padding:0px; margin-right:15px;">
+</a>
+<a href="https://www.flutnet.com">
+<img src="assets/flutnet.png" height="60" style="background-color:white; padding:20px; margin-top:15px;">
 </a>
 </p> <br />
 
+In the last 10 months i have worked the most implementing [ASP.NET Core] applications, improving myself on [HTML], [CSS], and [Javascript]. 
 
+Web development was a lack in my skills and experiences, and now i can improve even in it. 
 
-At last, but not least, I have worked on the birth of [Flutnet].
+I'm very exited :rocket: :rocket: :rocket:
 
 <p align="left">
-<a href="https://www.flutnet.com">
-<img src="assets/flutnet.png" height="60" style="background-color:white; padding:20px; margin-top:15px">
+<a href="https://en.wikipedia.org/wiki/HTML">
+<img src="assets/html.png" height="80" 
+style="background-color:white; padding:10px; margin: 0 10px 0 0;" >
+</a>
+<a href="https://en.wikipedia.org/wiki/CSS">
+<img src="assets/css.png" height="80" 
+style="background-color:white; padding:10px 20px 10px 20px; margin: 0 10px 0 0;">
+</a>
+<a href="https://www.javascript.com/">
+<img src="assets/javascript.png" height="80" style="background-color:white; padding:10px 15px 10px 15px; margin: 0 10px 0 0;">
 </a>
 </p>
 
@@ -94,6 +104,10 @@ At last, but not least, I have worked on the birth of [Flutnet].
 [Unity]: https://unity.com/
 [Java]: https://www.java.com/en/
 [Android]: https://developer.android.com/
+[ASP.NET Core]: https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core
+[HTML]: https://en.wikipedia.org/wiki/HTML
+[CSS]: https://en.wikipedia.org/wiki/CSS
+[Javascript]: https://www.javascript.com/
 
 <!-- Social URLs -->
 [Gmail-Badge]: https://img.shields.io/twitter/url?label=Gmail&logo=gmail&style=social&url=https%3A%2F%2Fit.linkedin.com%2Fin%2Fmatteo-rebecchi-mari-18349812b
