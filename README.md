@@ -53,12 +53,15 @@ From a [Java] background, in the last few years I started to work with the [.NET
 <a href="https://www.java.com/en/">
 <img src="assets/java.png" height="80" style="background-color:white; padding:10px 30px 10px 30px; margin: 0 10px 0 0;"> 
 </a>
+&nbsp;
 <a href="https://docs.microsoft.com/en-US/dotnet/">
 <img src="assets/dotnet.png" height="80" style="background-color:white; padding:10px 10px 10px 10px; margin: 0 10px 0 0;">
 </a>
+&nbsp;
 <a href="https://unity.com/">
 <img src="assets/unity.png" height="80" style="background-color:white; padding:10px; margin: 0 10px 0 0;">
 </a>
+&nbsp;
 <a href="https://dotnet.microsoft.com/apps/xamarin">
 <img src="assets/xamarin.png" height="80" style="background-color:white; padding:10px 12px 10px 12px; margin: 0 10px 0 0;">
 </a>
@@ -71,6 +74,7 @@ In 2019 i got passionate about the mobile framework [Flutter] from which I made 
 <a href="https://flutter.dev/">
 <img src="assets/flutter.png" height="140" style="background-color:white; padding:0px; margin-right:15px;">
 </a>
+&nbsp;
 <a href="https://www.flutnet.com">
 <img src="assets/flutnet.png" height="60" style="background-color:white; padding:20px; margin-top:15px;">
 </a>
@@ -87,10 +91,12 @@ I'm very exited :rocket: :rocket: :rocket:
 <img src="assets/html.png" height="80" 
 style="background-color:white; padding:10px; margin: 0 10px 0 0;" >
 </a>
+&nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS">
 <img src="assets/css.png" height="80" 
 style="background-color:white; padding:10px 20px 10px 20px; margin: 0 10px 0 0;">
 </a>
+&nbsp;
 <a href="https://www.javascript.com/">
 <img src="assets/javascript.png" height="80" style="background-color:white; padding:10px 15px 10px 15px; margin: 0 10px 0 0;">
 </a>
