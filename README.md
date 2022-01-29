@@ -68,7 +68,7 @@ From a [Java] background, in the last few years I started to work with the [.NET
 </p> <br />
 
 
-In 2019 i got passionate about the mobile framework [Flutter] from which I made some projects: the most important was the [Flutnet] project (a suite of tools and templates that allowed to use Flutter and Xamarin together).
+In 2019 i got passionate about the mobile framework [Flutter], using it in some projects: the most important was the [Flutnet] project (a suite of tools and templates that allowed to use Flutter and Xamarin together). I was part of the development team.
 
 <p align="left">
 <a href="https://flutter.dev/">
