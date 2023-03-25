@@ -51,22 +51,21 @@ From a [Java] background, in the last few years I started to work with the [.NET
 
 <p align="left">
 <a href="https://www.java.com/en/">
-<img src="assets/java.png" height="80" style="background-color:white; padding:10px 30px 10px 30px; margin: 0 10px 0 0;"> 
+<img src="assets/java.png" height="80" style="background-color:white; padding:10px 30px 10px 30px; margin: 0 10px 10px 0;"> 
 </a>
 &nbsp;
 <a href="https://docs.microsoft.com/en-US/dotnet/">
-<img src="assets/dotnet.png" height="80" style="background-color:white; padding:10px 10px 10px 10px; margin: 0 10px 0 0;">
+<img src="assets/dotnet.png" height="80" style="background-color:white; padding:10px 10px 10px 10px; margin: 0 10px 10px 0;">
 </a>
 &nbsp;
 <a href="https://unity.com/">
-<img src="assets/unity.png" height="80" style="background-color:white; padding:10px; margin: 0 10px 0 0;">
+<img src="assets/unity.png" height="80" style="background-color:white; padding:10px; margin: 0 10px 10px 0;">
 </a>
 &nbsp;
 <a href="https://dotnet.microsoft.com/apps/xamarin">
-<img src="assets/xamarin.png" height="80" style="background-color:white; padding:10px 12px 10px 12px; margin: 0 10px 0 0;">
+<img src="assets/xamarin.png" height="80" style="background-color:white; padding:10px 12px 10px 12px; margin: 0 10px 10px 0;">
 </a>
-</p> <br />
-
+</p>
 
 In 2019 i got passionate about the mobile framework [Flutter], using it in some projects: the most important was the [Flutnet] project (a suite of tools and templates that allowed to use Flutter and Xamarin together). I was part of the development team.
 
@@ -80,27 +79,36 @@ In 2019 i got passionate about the mobile framework [Flutter], using it in some 
 </a>
 </p> <br />
 
-In the last 10 months i have worked the most implementing [ASP.NET Core] applications, improving myself on [HTML], [CSS], and [Javascript]. 
+In May 2021 I've started working as a fullstack .NET developer ([ASP.NET Core] web applications and [SQL Server] using [Azure Devops](https://azure.microsoft.com/en-us/products/devops) ecosystem) improving myself on [HTML], [CSS], and [Javascript]. 
 
-Web development was a lack in my skills and experiences, and now i can improve even in it. 
+One interesting experience was to integrate [Azure Notification Hub] system into an *ASP-Net Core* Web app, providing the ability to send *PUSH notifications* to Android and iOS applications.
 
-I'm very exited :rocket: :rocket: :rocket:
-
-<p align="left">
+<div align="left" style="margin-top: 20px;">
+<a href="https://azure.microsoft.com/en-us/products/devops">
+<img src="assets/azure-devops.jpg" height="80" style="background-color:white; padding:10px; margin: 0 10px 10px 0;">
+</a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0">
+<img src="assets/asp-net-core.jpg" height="80" style="background-color:#0C2C64; padding:10px; margin: 0 10px 10px 0;">
+</a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0">
+<img src="assets/sql-server.jpg" height="80" style="background-color:#ffffff; padding:10px; margin: 0 10px 10px 0;">
+</a>
+</div>
+<div align="left" style="margin-top: 10px;">
 <a href="https://en.wikipedia.org/wiki/HTML">
 <img src="assets/html.png" height="80" 
-style="background-color:white; padding:10px; margin: 0 10px 0 0;" >
+style="background-color:white; padding:10px; margin: 0 10px 10px  0;" >
 </a>
 &nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS">
 <img src="assets/css.png" height="80" 
-style="background-color:white; padding:10px 20px 10px 20px; margin: 0 10px 0 0;">
+style="background-color:white; padding:10px 20px 10px 20px; margin: 0 10px 10px  0;">
 </a>
 &nbsp;
 <a href="https://www.javascript.com/">
-<img src="assets/javascript.png" height="80" style="background-color:white; padding:10px 15px 10px 15px; margin: 0 10px 0 0;">
+<img src="assets/javascript.png" height="80" style="background-color:white; padding:10px 15px 10px 15px; margin: 0 10px 10px  0;">
 </a>
-</p>
+</div>
 
 <!--  Link Defintions -->
 [Flutnet]: https://www.flutnet.com
@@ -110,10 +118,12 @@ style="background-color:white; padding:10px 20px 10px 20px; margin: 0 10px 0 0;"
 [Unity]: https://unity.com/
 [Java]: https://www.java.com/en/
 [Android]: https://developer.android.com/
-[ASP.NET Core]: https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core
+[ASP.NET Core]: https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [Javascript]: https://www.javascript.com/
+[SQL Server]: https://www.microsoft.com/it-it/sql-server/sql-server-downloads
+[Azure Notification Hub]: https://azure.microsoft.com/en-us/products/notification-hubs/
 
 <!-- Social URLs -->
 [Gmail-Badge]: https://img.shields.io/twitter/url?label=Gmail&logo=gmail&style=social&url=https%3A%2F%2Fit.linkedin.com%2Fin%2Fmatteo-rebecchi-mari-18349812b
